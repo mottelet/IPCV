@@ -1,4 +1,4 @@
-IX#!/bin/bash
+#!/bin/bash
 # Copyright (C) 2023-2025 - UTC - Stéphane MOTTELET
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public
